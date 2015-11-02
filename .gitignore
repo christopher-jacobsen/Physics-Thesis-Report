@@ -1,0 +1,7 @@
+### Mac OS and XCode ignore files and folders ###
+
+# MAC OS folders
+.DS_Store
+
+# Office backup files
+~*
